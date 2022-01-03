@@ -18,7 +18,7 @@ class Students extends Component {
                     <StudentDetails name="Jhon Doe" age="25" course="MERN" batch="2017" edit="edit" /><hr />
                     <StudentDetails name="Chandan Kumar" age="22" course="MERN" batch="2021" edit="edit" /><hr />
                     <StudentDetails name="Bhavesh Onkar" age="24" course="MEAN" batch="2020" edit="edit" /><hr />
-                    <StudentDetails name="Ayushi Kumari" age="20" course="MEVN" batch="2022" edit="edit" /><hr />
+                    <StudentDetails name="Ayushi Kumari" age="20" course="MEVN" batch="2022" edit="edit" />
                 </div>
             </div>
         )
